@@ -1,4 +1,5 @@
 # Machine Learning Algorithms from Scratch
+<b>An Undergraduate Research Minor </b>
 
 Welcome to the **Machine Learning Algorithms from Scratch** repository! This repository is dedicated to helping you understand the fundamental concepts of various machine learning algorithms by implementing them from scratch. Whether you're a beginner looking to dive into the world of machine learning or an experienced practitioner aiming to reinforce your understanding, this repository is a great place to start.
 
