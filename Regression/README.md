@@ -1,4 +1,4 @@
-# LinearRegression Class
+# LinearRegression
 
 This class implements a simple linear regression model, which fits a linear relationship between a dependent variable (Y) and an independent variable (X).
 
