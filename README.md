@@ -18,7 +18,7 @@ In the field of machine learning, understanding the inner workings of algorithms
 
 ## Algorithms
 
-The repository covers a wide range of machine learning algorithms, including but not limited to:
+The repository is amied to cover all the basic machine learning algorithms, including but not limited to:
 
 - Linear Regression
 - Logistic Regression
