@@ -6,7 +6,6 @@ class LinearRegression:
     def __init__(self):
         self.m = None
         self.b = None
-
         self.rmse = None
         self.r_squared = None
         self.mse = None
