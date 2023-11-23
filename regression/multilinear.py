@@ -4,6 +4,7 @@ import numpy as np
 X = np.array([[1, 2, 3], [1, 3, 4], [1, 4, 5], [1, 5, 6]])
 y = np.array([[1], [2], [3], [4]])
 
+
 class Multilinear:
 
     def __init__(self, X, y):
@@ -38,5 +39,5 @@ class Multilinear:
         plt.show()
 
 model = Multilinear(X, y)
-print(f"Gradient descent : {model.gradient_descent()}")
+print(f"Gradient descent: {model.gradient_descent()}")
 model.plot_cost()
